@@ -97,7 +97,7 @@ static const char *scratchpadcmd[] = { "st", "-t", scratchpadname, "-g", "80x24"
 static const char *setcolemakcmd[]  = { "/home/david/scripts/setxmodmap-colemak.sh", NULL };
 static const char *setqwertycmd[]  = { "/home/david/scripts/setxmodmap-qwerty.sh", NULL };
 
-static const char *suspendcmd[]  = { "/home/david/scripts/suspend.sh", NULL };
+static const char *suspendcmd[]  = { "/home/scum/scripts/suspend.sh", NULL };
 
 static const char *screenshotcmd[] = { "flameshot", "gui", NULL };
 
