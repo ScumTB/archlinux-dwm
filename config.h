@@ -87,7 +87,7 @@ static const char *browsercmd[]  = { "google-chrome-stable", NULL };
 
 static const char *upvol[]   = { "/home/scum/scripts/vol-up.sh",  NULL };
 static const char *downvol[] = { "/home/scum/scripts/vol-down.sh",  NULL };
-static const char *mutevol[] = { "/home/scum/scripts/vol-toggle.sh",  NULL };
+static const char *mutevol[] = { "/home/scum/scripts/volmute.sh",  NULL };
 
 static const char *wpcmd[]  = { "/home/scum/scripts/wp-change.sh", NULL };
 static const char *sktogglecmd[]  = { "/home/david/scripts/sck-tog.sh", NULL };
